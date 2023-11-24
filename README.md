@@ -12,6 +12,8 @@ Some things about myself;
 
 - Interested in backend stuff because of how I used to manage a game server to play with friends
 
+- Want to create something that will help me maximize slacking quality
+
 <!--
 **Exosuit/Exosuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
