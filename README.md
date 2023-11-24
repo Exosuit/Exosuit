@@ -1,6 +1,16 @@
-### Chin cheng hanji
+### Dimas Takeda Wukir Tirtowidjojo
 
-ya gitu deh
+<br />
+Lv.5 standard issue programmer
+<br/>
+<br/>
+Some things about myself;
+
+- I hate frontend but recently my friend introduced me to Chakra and I am now downbad for web slicing
+
+- Stuntfighting as a hobby, I want to powerbomb whoever came up with whatever Fortinet kinda stuff
+
+- Interested in backend stuff because of how I used to manage a game server to play with friends
 
 <!--
 **Exosuit/Exosuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
