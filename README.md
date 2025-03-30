@@ -7,6 +7,8 @@ I make stuff, just hate programming at times
 Some things about myself;
 
 - Just happy to be alive
+- I am not actually from South-western Timbuktu
+<br/>
 
 <!--
 **Exosuit/Exosuit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
